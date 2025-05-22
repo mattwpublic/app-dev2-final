@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSort.Domain", "CardSort.Domain\CardSort.Domain.csproj", "{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSort.WebUI", "CardSort.WebUI\CardSort.WebUI.csproj", "{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42CE1F98-8331-4E42-95CD-6B4187D2462E}
+	EndGlobalSection
+EndGlobal
