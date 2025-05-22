@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moofu\\source\\repos\\CardSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\infrastructure\\concrete\\formsauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\infrastructure\\concrete\\formsauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\infrastructure\\abstract\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\infrastructure\\abstract\\iauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.domain\\concrete\\efcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|solutionrelative:cardsort.domain\\concrete\\efcardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.domain\\abstract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|solutionrelative:cardsort.domain\\abstract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.webui\\content\\errorstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\content\\errorstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|c:\\users\\moofu\\source\\repos\\cardsort\\cardsort.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|solutionrelative:cardsort.domain\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardSort/True/SqlTable/dbo.Cards.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\card\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\card\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\shared\\cardsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\shared\\cardsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\models\\cardslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\models\\cardslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F31A3DF-1830-422A-B6F1-29B4277EF5AA}|CardSort.WebUI\\CardSort.WebUI.csproj|solutionrelative:cardsort.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|C:\\Users\\moofu\\source\\repos\\CardSort\\cardsort.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17247B6-16CC-4618-BEE6-9D7CD5A661B8}|CardSort.Domain\\CardSort.Domain.csproj|solutionrelative:cardsort.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T19:54:51.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:51:31.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:41:28.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormsAuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\Concrete\\FormsAuthProvider.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Infrastructure\\Concrete\\FormsAuthProvider.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\Concrete\\FormsAuthProvider.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Infrastructure\\Concrete\\FormsAuthProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:36:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthProvider.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\Abstract\\IAuthProvider.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Infrastructure\\Abstract\\IAuthProvider.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\Abstract\\IAuthProvider.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Infrastructure\\Abstract\\IAuthProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:35:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T23:23:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:20:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T19:49:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavController.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\NavController.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Controllers\\NavController.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\NavController.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Controllers\\NavController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:46:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CardSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\CardSummary.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Shared\\CardSummary.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\CardSummary.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Shared\\CardSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T19:42:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CardsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\CardsListViewModel.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Models\\CardsListViewModel.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\CardsListViewModel.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Models\\CardsListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:02:12.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\web.config",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\web.config",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\web.config",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-18T15:59:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagingHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeToolTip": "CardSort.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:52:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:04:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:45:14.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Web.config",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Web.config",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Web.config",
+              "RelativeToolTip": "CardSort.WebUI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T19:29:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T22:28:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EFCardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Concrete\\EFCardRepository.cs",
+              "RelativeDocumentMoniker": "CardSort.Domain\\Concrete\\EFCardRepository.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Concrete\\EFCardRepository.cs",
+              "RelativeToolTip": "CardSort.Domain\\Concrete\\EFCardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:59:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Abstract\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "CardSort.Domain\\Abstract\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Abstract\\ICardRepository.cs",
+              "RelativeToolTip": "CardSort.Domain\\Abstract\\ICardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:16:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T23:25:33.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorStyles.css",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Content\\ErrorStyles.css",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Content\\ErrorStyles.css",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Content\\ErrorStyles.css",
+              "RelativeToolTip": "CardSort.WebUI\\Content\\ErrorStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-21T18:01:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Models\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Models\\PagingInfo.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Models\\PagingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:46:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "CardSort.Domain\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Entities\\Card.cs",
+              "RelativeToolTip": "CardSort.Domain\\Entities\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:10:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Cards.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardSort/True/SqlTable/dbo.Cards.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CardSort/True/SqlTable/dbo.Cards.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-20T23:27:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CardSort.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:33:08.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Card\\List.cshtml",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Views\\Card\\List.cshtml",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Views\\Card\\List.cshtml",
+              "RelativeToolTip": "CardSort.WebUI\\Views\\Card\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T22:28:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\Controllers\\CardController.cs",
+              "RelativeToolTip": "CardSort.WebUI\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:26:42.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "CardSort.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "CardSort.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:08:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CardSort.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\moofu\\source\\repos\\CardSort\\CardSort.Domain\\Class1.cs",
+              "RelativeToolTip": "CardSort.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:52:08.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

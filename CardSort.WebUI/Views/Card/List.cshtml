@@ -1,0 +1,14 @@
+﻿@model CardSort.WebUI.Models.CardsListViewModel
+
+@{
+    ViewBag.Title = "Cards";
+}
+
+@foreach (var c in Model.Cards)
+{
+    @Html.Partial("CardSummary", c)
+}
+
+<div>
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new {page = x}))
+</div>
